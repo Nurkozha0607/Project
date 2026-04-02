@@ -1,0 +1,3 @@
+Line 1: Python file handling
+Line 2: Mode w overwrites content
+Line 3: Added with append mode
