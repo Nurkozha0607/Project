@@ -1,0 +1,11 @@
+first_name,last_name,email,birthday,group,phone,phone_type
+Alice,Smith,alice@gmail.com,1990-03-15,Friend,+17775551001,mobile
+Alice,Smith,alice@gmail.com,1990-03-15,Friend,+17775551002,home
+Bob,Johnson,bob.johnson@work.com,1985-07-22,Work,+17775552001,work
+Carol,Williams,carol@gmail.com,1993-11-05,Family,+17775553001,mobile
+David,Brown,david.brown@yahoo.com,1978-01-30,Work,+17775554001,work
+David,Brown,david.brown@yahoo.com,1978-01-30,Work,+17775554002,mobile
+Eve,Davis,eve@outlook.com,2000-06-18,Friend,+17775555001,mobile
+Frank,Miller,frank@gmail.com,1965-09-09,Family,+17775556001,home
+Grace,Wilson,grace.w@work.com,1995-02-28,Work,+17775557001,work
+Henry,Moore,henry@gmail.com,1988-12-01,Other,+17775558001,mobile
